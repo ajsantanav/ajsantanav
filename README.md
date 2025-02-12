@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajsantanav
-- 👀 I’m interested in Databases, Game development and Cyber Security
-- 🌱 I’m currently learning .Net frameworks, and C#. Soon to learn some video game programming.
+- 👀 I’m interested in Web development, Game development and Cyber Security
 - 💞️ I’m looking to improve the knowledge I have acquired by working on new projects.
 - 📫 How to reach me:
 adriansantana.v@gmail.com
